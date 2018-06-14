@@ -1,0 +1,35 @@
+ 
+
+body {
+   /*background-color: lightblue;*/
+   background-color: rgb(251, 245, 212)
+}
+
+h1.pistachioColor
+{
+	color: rgb(9,84,36);
+    /*margin-left: auto;
+     margin-right: auto;*/
+ 	text-align: center;
+ 	/*  without line below the headers won't 
+ 	    stay centered */
+ 	margin:0px auto;
+    width: 24em;
+}
+
+p.contactInfoFontSize
+{
+	font-size: 24px;
+  text-align: center;
+}
+
+p
+{
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+	margin:0px auto;
+}
+
+main {display:block;}
+header { display:block;}
